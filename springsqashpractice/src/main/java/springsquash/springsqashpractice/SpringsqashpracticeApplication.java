@@ -11,6 +11,8 @@ public class SpringsqashpracticeApplication {
 
 
 		System.out.println("This is update for main branch");
+
+		System.out.println("This is update for my branch");
 	}
 
 }
